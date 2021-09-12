@@ -21,6 +21,15 @@
   <li>Mark episode as watched</li>
   <li>Update <i>Watching</i> and <i>Up-To-Date</i>/<i>Finishing</i> lists</li>
 </ul>
+<h3>Assignment 3</h3>
+<ul>
+  <li>Rate the watched episodes</li>
+  <li>Add comments to the watched episodes</li>
+  <li>Search users</li>
+  <li>Send friend requests</li>
+  <li>Accept/Decline friend requests</li>
+  <li>View friend profile</li>
+</ul>
 
 
 
