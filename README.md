@@ -6,6 +6,13 @@
 </ul>
 <h2>Requirements</h2>
 <h3>Assignment 1</h3>
+<ul>
+  <li>Register</li>
+  <li>Login</li>
+  <li>Setup TMDB API</li>
+  <li>Admin panel - CRUDs</li>
+  <li>Edit profile by user</li>
+</ul>
 
 
 
