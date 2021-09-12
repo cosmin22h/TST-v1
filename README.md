@@ -30,6 +30,13 @@
   <li>Accept/Decline friend requests</li>
   <li>View friend profile</li>
 </ul>
+<h3>Assignment 4 (Final project)</h3>
+<ul>
+  <li>Like a comment</li>
+  <li>Report a bug and comments (spoiler alert or inappropriate language)</li>
+  <li>Admin panel - export XML data</li>
+  <li>Email notifications</li>
+</ul>
 
 
 
