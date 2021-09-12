@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route, Redirect } from "react-router-dom";
+import { BrowserRouter, Route, Redirect } from "react-router-dom";
 import AdminNavBar from "../admin/AdminNavbar";
 import RenderUsers from "../admin/users/RenderUsers";
 import AddUser from "../admin/users/AddUser";
@@ -67,7 +67,7 @@ const App = () => {
   }
 
   return (
-    <HashRouter>
+    <BrowserRouter>
       {session !== null ? (
         <React.Fragment>
           {user === "ADMIN" ? (
@@ -160,7 +160,7 @@ const App = () => {
           <Route path="/user/change-password/:token" exact render={() => <IndexPage indexType={INDEX_TYPE} typeSelected={INDEX_TYPE[3]}/>} />
         </React.Fragment>
       )}
-    </HashRouter>
+    </BrowserRouter>
   );
 };
 
