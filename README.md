@@ -1,2 +1,3 @@
 # TST-v1
-Spring + React project
+Backend: Spring Framework, PostgreSQL
+Frontend: React.js, Material UI
