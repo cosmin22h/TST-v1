@@ -13,6 +13,13 @@
   <li>Admin panel - CRUDs</li>
   <li>Edit profile by user</li>
 </ul>
+<h3>Assignment 2</h3>
+<ul>
+  <li>Search TV Shows</li>
+  <li>Add TV Shows in the <i>To Watch</i>, <i>Favorites</i> and <i>Stopped</i> lists</li>
+  <li>Setup YouTube API for viewing trailers</li>
+  <li>Mark episode as watched</li>
+</ul>
 
 
 
