@@ -30,14 +30,15 @@
   <li>Accept/Decline friend requests</li>
   <li>View friend profile</li>
   <li>Notification for users (snackbar) - send and accept friend request</li>
-  <li>Notification for admin (snackbar) - new comments and new user</li>
+  <li>Notification for admin (snackbar) - new comment and new user</li>
 </ul>
 <h3>Assignment 4 (Final project)</h3>
 <ul>
   <li>Like a comment</li>
   <li>Report a bug and comments (spoiler alert or inappropriate language)</li>
-  <li>Admin panel - export XML data</li>
-  <li>Email notifications</li>
+  <li>Spoiler alert for comments</li>
+  <li>Admin panel - export XML data (reports) and view user logs</li>
+  <li>Email notifications - forgot password, register, comment tagged as spoiler or comment deleted</li>
 </ul>
 
 
